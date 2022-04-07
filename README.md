@@ -1,4 +1,4 @@
-# HackerEarthCarnivalWars
+# Hacker Earth ML Challenge: CarnivalWars!
 
 ### Score on test data: 90.66830 (Online score)
 
